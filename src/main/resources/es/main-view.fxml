@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane
+        xmlns="http://javafx.com/javafx/21"
+        xmlns:fx="http://javafx.com/fxml/1"
+        fx:controller="es.dallanonna.controller.MainController"
+        stylesheets="@css/styles.css">
+    <top>
+        <HBox alignment="CENTER" spacing="20" styleClass="header">
+            <Label text="DALLA NONNA" styleClass="logo"/>
+            <Region HBox.hgrow="ALWAYS"/>
+            <Label text="Restaurante italiano" styleClass="subtitle"/>
+        </HBox>
+    </top>
+    <center>
+        <VBox alignment="CENTER" spacing="20" styleClass="content">
+            <Label text="Benvenuti a Dalla Nonna" styleClass="title"/>
+            <Label text="Auténtica cocina italiana" styleClass="description"/>
+            <Button text="Ver carta" onAction="#verCarta" styleClass="main-button"/>
+            <Button text="Realizar reserva" onAction="#realizarReserva" styleClass="main-button"/>
+            <Label fx:id="mensajeLabel" text="Bienvenidos a nuestro restaurante"/>
+        </VBox>
+    </center>
+    <bottom>
+        <HBox alignment="CENTER" styleClass="footer">
+            <Label text="Dalla Nonna · Tradición italiana"/>
+        </HBox>
+    </bottom>
+</BorderPane>
