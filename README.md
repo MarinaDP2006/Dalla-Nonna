@@ -24,5 +24,5 @@ src/main/
 ```
 
 ## Enlaces del Proyecto
-* **Tablero de Trello:** [Enlace a vuestro Trello](https://trello.com/b/sbxPkpf0/%F0%9F%8D%95-plan-de-tareas-dalla-nonna)
-* **Diseño en Figma:** [Enlace al prototipo de Figma](* **Diseño en Figma:** [Enlace al prototipo de Figma]([https://www.figma.com/files/team/1697195461922410043/recents-and-sharing?fuid=1697195460353682410](https://www.figma.com/make/QggrrsN0DKKUGBVkvyqRVD/Dalla-Nonna-Restaurant-Website?code-node-id=0-6&p=f&t=kfjaEip9VTCXWoPa-0&fullscreen=1)))
+* **Tablero de Trello:**(https://trello.com/b/sbxPkpf0/%F0%9F%8D%95-plan-de-tareas-dalla-nonna)
+* **Diseño en Figma:** (https://www.figma.com/make/QggrrsN0DKKUGBVkvyqRVD/Dalla-Nonna-Restaurant-Website?code-node-id=0-6&p=f&t=kfjaEip9VTCXWoPa-0&fullscreen=1)))
