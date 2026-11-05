@@ -1,7 +1,7 @@
 # Restaurante Dalla Nonna — App de Gestión y Reservas
 La aplicación permite la gestión interactiva de la carta de platos y la reserva de mesas para el restaurante italiano *Dalla Nonna*.
 
-## 🛠️ Requisitos Previos
+## Requisitos Previos
 Antes de ejecutar el proyecto, asegúrate de contar con los siguientes elementos configurados en tu entorno local:
 
 * **JDK:** Java 17 o superior.
@@ -9,7 +9,7 @@ Antes de ejecutar el proyecto, asegúrate de contar con los siguientes elementos
 * **Gestor de Base de Datos:** MySQL / MariaDB (puerto local `3306`).
 * **Librería de MySQL:** Tener vinculado el conector JDBC local `mysql-connector-j-26.10.0.jar` en la librería del proyecto (*Build Path* / *Project Structure*).
 
-## 🚀 Instalación y Ejecución
+## Instalación y Ejecución
 ### 1. Clonar el repositorio
 ```
 git clone https://github.com/TU-USUARIO/dalla-nonna-app.git
@@ -48,11 +48,10 @@ src/main/
 
 ##  Flujo de Trabajo y Ramas (Git Workflow)
 Para mantener la estabilidad de la rama principal (`main`), seguimos las siguientes reglas de colaboración:
-
 1. **Protección de `main`:** Ningún integrante del equipo realiza commits directos a `main`.
 2. **Creación de ramas:** Cada nueva tarea o funcionalidad debe desarrollarse en una rama secundaria con el formato `feature/nombre-tarea` (ej: `feature/pantalla-reserva`, `feature/conexion-dao`).
 3. **Pull Requests (PR):** Al finalizar una tarea, se abre un PR hacia `main`. Este debe ser revisado y aprobado por al menos otro integrante del equipo antes de integrarse.
 
-## 📌 Enlaces del Proyecto
+## Enlaces del Proyecto
 * **Tablero de Trello:** [Enlace a vuestro Trello](https://trello.com/b/sbxPkpf0/%F0%9F%8D%95-plan-de-tareas-dalla-nonna)
 * **Diseño en Figma:** [Enlace al prototipo de Figma](* **Diseño en Figma:** [Enlace al prototipo de Figma]([https://www.figma.com/files/team/1697195461922410043/recents-and-sharing?fuid=1697195460353682410](https://www.figma.com/make/QggrrsN0DKKUGBVkvyqRVD/Dalla-Nonna-Restaurant-Website?code-node-id=0-6&p=f&t=kfjaEip9VTCXWoPa-0&fullscreen=1)))
